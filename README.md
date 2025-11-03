@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hola, soy Fernando Parra
 
-<!--
-**Fernandopm01/Fernandopm01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador y  me apasiona crear soluciones digitales que conecten personas y servicios.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías
+- Python (Django,Apirest)
+- Html
+- Css
+- Javascript
+-Postman(Api testing)
+-Git
+-PostgreSQL
+-SQlite 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Experiencia
+- **Proyecto de tesis** — Sistema Web para control de Matriz de televisores (VideoWall) (Junio 2024 - Diciembre 2024)
+- **App Cosmox**-Aplicación web Empresarial (Enero 2025-Actualidad) 
+## 🎓 Educación
+- Ingeniería en Ciencias Informáticas — Universidad De Ciencias Informáticas (UCI)
+## 📫 Contacto
+- 📧  fpmasjuan01@email.com  
+- 🌐 [LinkedIn](www.linkedin.com/in/fernando-parra-masjuan-296000309)
